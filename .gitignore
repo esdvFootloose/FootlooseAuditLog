@@ -1,0 +1,4 @@
+secret.py
+*.mmdb
+data
+.idea
