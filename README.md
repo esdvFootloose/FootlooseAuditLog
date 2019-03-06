@@ -1,4 +1,5 @@
-#Footloose Audit Log Analyser
+# Footloose Audit Log Analyser
+
 Source code to download and analyze our audit log. This is a set of scripts to download the log
 for the wordpress audit log plugin.
 
